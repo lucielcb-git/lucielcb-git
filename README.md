@@ -7,6 +7,7 @@ Technical Product Manager and MBA candidate at NYU Stern, specializing in AI and
 ## What I'm building
 
 - **[SignalPost](https://github.com/lucielcb-git/newsletter-buddy)** -- AI-powered newsletter generator. Chat with an AI agent to draft, evaluate, and send newsletters. Built with React/TypeScript and N8N for AI orchestration. Vibe-coded with Lovable.
+- **[GrocerEase](https://github.com/lucielcb-git/smart-pantry-pal)** -- Meal planning app with swipe-based meal selection, AI chat assistant for plan editing, and auto-generated grocery lists. Product design prototype vibe-coded with Lovable.
 
 ## Background
 
